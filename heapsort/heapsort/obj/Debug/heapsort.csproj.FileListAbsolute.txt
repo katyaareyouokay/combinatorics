@@ -1,0 +1,7 @@
+C:\Users\4koa\source\repos\heapsort\heapsort\bin\Debug\heapsort.exe.config
+C:\Users\4koa\source\repos\heapsort\heapsort\bin\Debug\heapsort.exe
+C:\Users\4koa\source\repos\heapsort\heapsort\bin\Debug\heapsort.pdb
+C:\Users\4koa\source\repos\heapsort\heapsort\obj\Debug\heapsort.csproj.AssemblyReference.cache
+C:\Users\4koa\source\repos\heapsort\heapsort\obj\Debug\heapsort.csproj.CoreCompileInputs.cache
+C:\Users\4koa\source\repos\heapsort\heapsort\obj\Debug\heapsort.exe
+C:\Users\4koa\source\repos\heapsort\heapsort\obj\Debug\heapsort.pdb
